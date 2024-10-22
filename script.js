@@ -1,6 +1,6 @@
 const userName = "mateusz";
 const upperCaseName = userName.charAt(0).toUpperCase() + userName.substring(1);
-const userAge = 30;
+const userAge = 31;
 const likesJavaScript = true;
 const userHobby = "fotografia";
 const userCity = "Warszawa";
